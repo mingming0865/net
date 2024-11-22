@@ -1,0 +1,11 @@
+C:\Users\nguye\source\repos\QLNSA\QLNSA\bin\Debug\QLNSA.exe.config
+C:\Users\nguye\source\repos\QLNSA\QLNSA\bin\Debug\QLNSA.exe
+C:\Users\nguye\source\repos\QLNSA\QLNSA\bin\Debug\QLNSA.pdb
+C:\Users\nguye\source\repos\QLNSA\QLNSA\obj\Debug\QLNSA.csprojAssemblyReference.cache
+C:\Users\nguye\source\repos\QLNSA\QLNSA\obj\Debug\QLNSA.frmMain.resources
+C:\Users\nguye\source\repos\QLNSA\QLNSA\obj\Debug\QLNSA.Properties.Resources.resources
+C:\Users\nguye\source\repos\QLNSA\QLNSA\obj\Debug\QLNSA.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\QLNSA\QLNSA\obj\Debug\QLNSA.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\QLNSA\QLNSA\obj\Debug\QLNSA.exe
+C:\Users\nguye\source\repos\QLNSA\QLNSA\obj\Debug\QLNSA.pdb
+C:\Users\nguye\source\repos\QLNSA\QLNSA\obj\Debug\QLNSA.frmDangNhap.resources

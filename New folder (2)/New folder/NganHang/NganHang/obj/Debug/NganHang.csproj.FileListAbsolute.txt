@@ -1,0 +1,5 @@
+C:\Users\nguye\source\repos\NganHang\NganHang\obj\Debug\NganHang.csprojAssemblyReference.cache
+C:\Users\nguye\source\repos\NganHang\NganHang\obj\Debug\NganHang.frmMain.resources
+C:\Users\nguye\source\repos\NganHang\NganHang\obj\Debug\NganHang.Properties.Resources.resources
+C:\Users\nguye\source\repos\NganHang\NganHang\obj\Debug\NganHang.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\NganHang\NganHang\obj\Debug\NganHang.csproj.CoreCompileInputs.cache

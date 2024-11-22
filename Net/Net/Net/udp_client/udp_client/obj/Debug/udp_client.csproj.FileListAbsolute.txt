@@ -1,0 +1,15 @@
+D:\baitapvenha\udp_client\udp_client\bin\Debug\udp_client.exe.config
+D:\baitapvenha\udp_client\udp_client\bin\Debug\udp_client.exe
+D:\baitapvenha\udp_client\udp_client\bin\Debug\udp_client.pdb
+D:\baitapvenha\udp_client\udp_client\obj\Debug\udp_client.csproj.AssemblyReference.cache
+D:\baitapvenha\udp_client\udp_client\obj\Debug\udp_client.csproj.SuggestedBindingRedirects.cache
+D:\baitapvenha\udp_client\udp_client\obj\Debug\udp_client.csproj.CoreCompileInputs.cache
+D:\baitapvenha\udp_client\udp_client\obj\Debug\udp_client.exe
+D:\baitapvenha\udp_client\udp_client\obj\Debug\udp_client.pdb
+C:\1hoc\hethong\Net\Net\Net\udp_client\udp_client\bin\Debug\udp_client.exe.config
+C:\1hoc\hethong\Net\Net\Net\udp_client\udp_client\bin\Debug\udp_client.exe
+C:\1hoc\hethong\Net\Net\Net\udp_client\udp_client\bin\Debug\udp_client.pdb
+C:\1hoc\hethong\Net\Net\Net\udp_client\udp_client\obj\Debug\udp_client.csprojAssemblyReference.cache
+C:\1hoc\hethong\Net\Net\Net\udp_client\udp_client\obj\Debug\udp_client.csproj.CoreCompileInputs.cache
+C:\1hoc\hethong\Net\Net\Net\udp_client\udp_client\obj\Debug\udp_client.exe
+C:\1hoc\hethong\Net\Net\Net\udp_client\udp_client\obj\Debug\udp_client.pdb

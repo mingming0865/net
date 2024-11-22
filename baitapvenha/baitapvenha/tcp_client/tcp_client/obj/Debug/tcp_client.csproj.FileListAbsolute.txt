@@ -1,0 +1,14 @@
+D:\baitapvenha\tcp_client\tcp_client\bin\Debug\tcp_client.exe.config
+D:\baitapvenha\tcp_client\tcp_client\bin\Debug\tcp_client.exe
+D:\baitapvenha\tcp_client\tcp_client\bin\Debug\tcp_client.pdb
+D:\baitapvenha\tcp_client\tcp_client\obj\Debug\tcp_client.csproj.CoreCompileInputs.cache
+D:\baitapvenha\tcp_client\tcp_client\obj\Debug\tcp_client.exe
+D:\baitapvenha\tcp_client\tcp_client\obj\Debug\tcp_client.pdb
+D:\baitapvenha\tcp_client\tcp_client\obj\Debug\tcp_client.csprojAssemblyReference.cache
+C:\1hoc\hethong\baitapvenha\baitapvenha\tcp_client\tcp_client\bin\Debug\tcp_client.exe.config
+C:\1hoc\hethong\baitapvenha\baitapvenha\tcp_client\tcp_client\bin\Debug\tcp_client.exe
+C:\1hoc\hethong\baitapvenha\baitapvenha\tcp_client\tcp_client\bin\Debug\tcp_client.pdb
+C:\1hoc\hethong\baitapvenha\baitapvenha\tcp_client\tcp_client\obj\Debug\tcp_client.csprojAssemblyReference.cache
+C:\1hoc\hethong\baitapvenha\baitapvenha\tcp_client\tcp_client\obj\Debug\tcp_client.csproj.CoreCompileInputs.cache
+C:\1hoc\hethong\baitapvenha\baitapvenha\tcp_client\tcp_client\obj\Debug\tcp_client.exe
+C:\1hoc\hethong\baitapvenha\baitapvenha\tcp_client\tcp_client\obj\Debug\tcp_client.pdb

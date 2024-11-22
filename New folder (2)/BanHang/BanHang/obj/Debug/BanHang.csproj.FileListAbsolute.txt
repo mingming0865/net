@@ -1,0 +1,39 @@
+C:\1hoc\net\BanHang\BanHang\bin\Debug\BanHang.exe.config
+C:\1hoc\net\BanHang\BanHang\bin\Debug\BanHang.exe
+C:\1hoc\net\BanHang\BanHang\bin\Debug\BanHang.pdb
+C:\1hoc\net\BanHang\BanHang\obj\Debug\BanHang.csprojAssemblyReference.cache
+C:\1hoc\net\BanHang\BanHang\obj\Debug\BanHang.frmDangNhap.resources
+C:\1hoc\net\BanHang\BanHang\obj\Debug\BanHang.frmMain.resources
+C:\1hoc\net\BanHang\BanHang\obj\Debug\BanHang.Properties.Resources.resources
+C:\1hoc\net\BanHang\BanHang\obj\Debug\BanHang.csproj.GenerateResource.cache
+C:\1hoc\net\BanHang\BanHang\obj\Debug\BanHang.csproj.CoreCompileInputs.cache
+C:\1hoc\net\BanHang\BanHang\obj\Debug\BanHang.exe
+C:\1hoc\net\BanHang\BanHang\obj\Debug\BanHang.pdb
+C:\1hoc\net\BanHang\BanHang\obj\Debug\BanHang.frmLoaiSanPham.resources
+C:\1hoc\net\BanHang\BanHang\obj\Debug\BanHang.frmSanPham.resources
+C:\1hoc\net\New folder (2)\BanHang\BanHang\bin\Debug\BanHang.exe.config
+C:\1hoc\net\New folder (2)\BanHang\BanHang\bin\Debug\BanHang.exe
+C:\1hoc\net\New folder (2)\BanHang\BanHang\bin\Debug\BanHang.pdb
+C:\1hoc\net\New folder (2)\BanHang\BanHang\obj\Debug\BanHang.csprojAssemblyReference.cache
+C:\1hoc\net\New folder (2)\BanHang\BanHang\obj\Debug\BanHang.frmDangNhap.resources
+C:\1hoc\net\New folder (2)\BanHang\BanHang\obj\Debug\BanHang.frmLoaiSanPham.resources
+C:\1hoc\net\New folder (2)\BanHang\BanHang\obj\Debug\BanHang.frmMain.resources
+C:\1hoc\net\New folder (2)\BanHang\BanHang\obj\Debug\BanHang.frmSanPham.resources
+C:\1hoc\net\New folder (2)\BanHang\BanHang\obj\Debug\BanHang.Properties.Resources.resources
+C:\1hoc\net\New folder (2)\BanHang\BanHang\obj\Debug\BanHang.csproj.GenerateResource.cache
+C:\1hoc\net\New folder (2)\BanHang\BanHang\obj\Debug\BanHang.csproj.CoreCompileInputs.cache
+C:\1hoc\net\New folder (2)\BanHang\BanHang\obj\Debug\BanHang.exe
+C:\1hoc\net\New folder (2)\BanHang\BanHang\obj\Debug\BanHang.pdb
+E:\1hoc\net\New folder (2)\BanHang\BanHang\bin\Debug\BanHang.exe.config
+E:\1hoc\net\New folder (2)\BanHang\BanHang\bin\Debug\BanHang.exe
+E:\1hoc\net\New folder (2)\BanHang\BanHang\bin\Debug\BanHang.pdb
+E:\1hoc\net\New folder (2)\BanHang\BanHang\obj\Debug\BanHang.csproj.AssemblyReference.cache
+E:\1hoc\net\New folder (2)\BanHang\BanHang\obj\Debug\BanHang.frmDangNhap.resources
+E:\1hoc\net\New folder (2)\BanHang\BanHang\obj\Debug\BanHang.frmLoaiSanPham.resources
+E:\1hoc\net\New folder (2)\BanHang\BanHang\obj\Debug\BanHang.frmMain.resources
+E:\1hoc\net\New folder (2)\BanHang\BanHang\obj\Debug\BanHang.frmSanPham.resources
+E:\1hoc\net\New folder (2)\BanHang\BanHang\obj\Debug\BanHang.Properties.Resources.resources
+E:\1hoc\net\New folder (2)\BanHang\BanHang\obj\Debug\BanHang.csproj.GenerateResource.cache
+E:\1hoc\net\New folder (2)\BanHang\BanHang\obj\Debug\BanHang.csproj.CoreCompileInputs.cache
+E:\1hoc\net\New folder (2)\BanHang\BanHang\obj\Debug\BanHang.exe
+E:\1hoc\net\New folder (2)\BanHang\BanHang\obj\Debug\BanHang.pdb

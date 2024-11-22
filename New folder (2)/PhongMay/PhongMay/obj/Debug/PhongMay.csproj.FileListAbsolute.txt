@@ -1,0 +1,14 @@
+C:\1hoc\net\PhongMay\PhongMay\obj\Debug\PhongMay.csprojAssemblyReference.cache
+C:\1hoc\net\PhongMay\PhongMay\obj\Debug\PhongMay.frmDangNhap.resources
+C:\1hoc\net\PhongMay\PhongMay\obj\Debug\PhongMay.Properties.Resources.resources
+C:\1hoc\net\PhongMay\PhongMay\obj\Debug\PhongMay.csproj.GenerateResource.cache
+C:\1hoc\net\PhongMay\PhongMay\obj\Debug\PhongMay.csproj.CoreCompileInputs.cache
+C:\1hoc\net\PhongMay\PhongMay\bin\Debug\PhongMay.exe.config
+C:\1hoc\net\PhongMay\PhongMay\bin\Debug\PhongMay.exe
+C:\1hoc\net\PhongMay\PhongMay\bin\Debug\PhongMay.pdb
+C:\1hoc\net\PhongMay\PhongMay\obj\Debug\PhongMay.frmMain.resources
+C:\1hoc\net\PhongMay\PhongMay\obj\Debug\PhongMay.exe
+C:\1hoc\net\PhongMay\PhongMay\obj\Debug\PhongMay.pdb
+C:\1hoc\net\PhongMay\PhongMay\obj\Debug\PhongMay.frmLichDangKy.resources
+C:\1hoc\net\PhongMay\PhongMay\obj\Debug\PhongMay.frmLoaiPhong.resources
+C:\1hoc\net\PhongMay\PhongMay\obj\Debug\PhongMay.frmThongKe.resources

@@ -1,0 +1,11 @@
+C:\Users\nguye\source\repos\1610\1610\bin\Debug\1610.exe.config
+C:\Users\nguye\source\repos\1610\1610\bin\Debug\1610.exe
+C:\Users\nguye\source\repos\1610\1610\bin\Debug\1610.pdb
+C:\Users\nguye\source\repos\1610\1610\obj\Debug\1610.csprojAssemblyReference.cache
+C:\Users\nguye\source\repos\1610\1610\obj\Debug\_1610.frmMain.resources
+C:\Users\nguye\source\repos\1610\1610\obj\Debug\_1610.Properties.Resources.resources
+C:\Users\nguye\source\repos\1610\1610\obj\Debug\1610.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\1610\1610\obj\Debug\1610.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\1610\1610\obj\Debug\1610.exe
+C:\Users\nguye\source\repos\1610\1610\obj\Debug\1610.pdb
+C:\Users\nguye\source\repos\1610\1610\obj\Debug\_1610.frmDangNhap.resources

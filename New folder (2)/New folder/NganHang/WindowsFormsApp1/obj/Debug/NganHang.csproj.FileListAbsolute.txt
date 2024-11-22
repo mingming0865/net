@@ -1,0 +1,13 @@
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\NganHang.csprojAssemblyReference.cache
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\NganHang.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\NganHang.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDangNhap.resources
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTaiKhoan.resources
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmTK.resources

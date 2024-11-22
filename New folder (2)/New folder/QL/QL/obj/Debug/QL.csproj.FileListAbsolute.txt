@@ -1,0 +1,12 @@
+C:\Users\nguye\source\repos\QL\QL\bin\Debug\QL.exe.config
+C:\Users\nguye\source\repos\QL\QL\bin\Debug\QL.exe
+C:\Users\nguye\source\repos\QL\QL\bin\Debug\QL.pdb
+C:\Users\nguye\source\repos\QL\QL\obj\Debug\QL.csprojAssemblyReference.cache
+C:\Users\nguye\source\repos\QL\QL\obj\Debug\QL.frmMain.resources
+C:\Users\nguye\source\repos\QL\QL\obj\Debug\QL.frmThongKe.resources
+C:\Users\nguye\source\repos\QL\QL\obj\Debug\QL.Properties.Resources.resources
+C:\Users\nguye\source\repos\QL\QL\obj\Debug\QL.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\QL\QL\obj\Debug\QL.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\QL\QL\obj\Debug\QL.exe
+C:\Users\nguye\source\repos\QL\QL\obj\Debug\QL.pdb
+C:\Users\nguye\source\repos\QL\QL\obj\Debug\QL.frmDangNhap.resources

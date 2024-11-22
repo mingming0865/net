@@ -1,0 +1,15 @@
+D:\baitapvenha\Udp_sever\Udp_sever\bin\Debug\Udp_sever.exe.config
+D:\baitapvenha\Udp_sever\Udp_sever\bin\Debug\Udp_sever.exe
+D:\baitapvenha\Udp_sever\Udp_sever\bin\Debug\Udp_sever.pdb
+D:\baitapvenha\Udp_sever\Udp_sever\obj\Debug\Udp_sever.csproj.AssemblyReference.cache
+D:\baitapvenha\Udp_sever\Udp_sever\obj\Debug\Udp_sever.csproj.SuggestedBindingRedirects.cache
+D:\baitapvenha\Udp_sever\Udp_sever\obj\Debug\Udp_sever.csproj.CoreCompileInputs.cache
+D:\baitapvenha\Udp_sever\Udp_sever\obj\Debug\Udp_sever.exe
+D:\baitapvenha\Udp_sever\Udp_sever\obj\Debug\Udp_sever.pdb
+C:\Users\nguye\Downloads\Net\Net\Net\udp_sever\Udp_sever\bin\Debug\Udp_sever.exe.config
+C:\Users\nguye\Downloads\Net\Net\Net\udp_sever\Udp_sever\bin\Debug\Udp_sever.exe
+C:\Users\nguye\Downloads\Net\Net\Net\udp_sever\Udp_sever\bin\Debug\Udp_sever.pdb
+C:\Users\nguye\Downloads\Net\Net\Net\udp_sever\Udp_sever\obj\Debug\Udp_sever.csprojAssemblyReference.cache
+C:\Users\nguye\Downloads\Net\Net\Net\udp_sever\Udp_sever\obj\Debug\Udp_sever.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\Net\Net\Net\udp_sever\Udp_sever\obj\Debug\Udp_sever.exe
+C:\Users\nguye\Downloads\Net\Net\Net\udp_sever\Udp_sever\obj\Debug\Udp_sever.pdb

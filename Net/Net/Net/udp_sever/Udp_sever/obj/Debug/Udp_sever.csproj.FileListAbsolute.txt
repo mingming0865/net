@@ -1,0 +1,15 @@
+D:\baitapvenha\Udp_sever\Udp_sever\bin\Debug\Udp_sever.exe.config
+D:\baitapvenha\Udp_sever\Udp_sever\bin\Debug\Udp_sever.exe
+D:\baitapvenha\Udp_sever\Udp_sever\bin\Debug\Udp_sever.pdb
+D:\baitapvenha\Udp_sever\Udp_sever\obj\Debug\Udp_sever.csproj.AssemblyReference.cache
+D:\baitapvenha\Udp_sever\Udp_sever\obj\Debug\Udp_sever.csproj.SuggestedBindingRedirects.cache
+D:\baitapvenha\Udp_sever\Udp_sever\obj\Debug\Udp_sever.csproj.CoreCompileInputs.cache
+D:\baitapvenha\Udp_sever\Udp_sever\obj\Debug\Udp_sever.exe
+D:\baitapvenha\Udp_sever\Udp_sever\obj\Debug\Udp_sever.pdb
+C:\1hoc\hethong\Net\Net\Net\udp_sever\Udp_sever\bin\Debug\Udp_sever.exe.config
+C:\1hoc\hethong\Net\Net\Net\udp_sever\Udp_sever\bin\Debug\Udp_sever.exe
+C:\1hoc\hethong\Net\Net\Net\udp_sever\Udp_sever\bin\Debug\Udp_sever.pdb
+C:\1hoc\hethong\Net\Net\Net\udp_sever\Udp_sever\obj\Debug\Udp_sever.csprojAssemblyReference.cache
+C:\1hoc\hethong\Net\Net\Net\udp_sever\Udp_sever\obj\Debug\Udp_sever.csproj.CoreCompileInputs.cache
+C:\1hoc\hethong\Net\Net\Net\udp_sever\Udp_sever\obj\Debug\Udp_sever.exe
+C:\1hoc\hethong\Net\Net\Net\udp_sever\Udp_sever\obj\Debug\Udp_sever.pdb

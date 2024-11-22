@@ -1,0 +1,15 @@
+D:\baitapvenha\tcp_client\tcp_client\bin\Debug\tcp_client.exe.config
+D:\baitapvenha\tcp_client\tcp_client\bin\Debug\tcp_client.exe
+D:\baitapvenha\tcp_client\tcp_client\bin\Debug\tcp_client.pdb
+D:\baitapvenha\tcp_client\tcp_client\obj\Debug\tcp_client.csproj.AssemblyReference.cache
+D:\baitapvenha\tcp_client\tcp_client\obj\Debug\tcp_client.csproj.SuggestedBindingRedirects.cache
+D:\baitapvenha\tcp_client\tcp_client\obj\Debug\tcp_client.csproj.CoreCompileInputs.cache
+D:\baitapvenha\tcp_client\tcp_client\obj\Debug\tcp_client.exe
+D:\baitapvenha\tcp_client\tcp_client\obj\Debug\tcp_client.pdb
+C:\Users\nguye\Downloads\Net\Net\Net\tcp_client\tcp_client\bin\Debug\tcp_client.exe.config
+C:\Users\nguye\Downloads\Net\Net\Net\tcp_client\tcp_client\bin\Debug\tcp_client.exe
+C:\Users\nguye\Downloads\Net\Net\Net\tcp_client\tcp_client\bin\Debug\tcp_client.pdb
+C:\Users\nguye\Downloads\Net\Net\Net\tcp_client\tcp_client\obj\Debug\tcp_client.csprojAssemblyReference.cache
+C:\Users\nguye\Downloads\Net\Net\Net\tcp_client\tcp_client\obj\Debug\tcp_client.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\Net\Net\Net\tcp_client\tcp_client\obj\Debug\tcp_client.exe
+C:\Users\nguye\Downloads\Net\Net\Net\tcp_client\tcp_client\obj\Debug\tcp_client.pdb

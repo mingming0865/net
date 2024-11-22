@@ -1,0 +1,15 @@
+D:\baitapvenha\udp_client\udp_client\bin\Debug\udp_client.exe.config
+D:\baitapvenha\udp_client\udp_client\bin\Debug\udp_client.exe
+D:\baitapvenha\udp_client\udp_client\bin\Debug\udp_client.pdb
+D:\baitapvenha\udp_client\udp_client\obj\Debug\udp_client.csproj.AssemblyReference.cache
+D:\baitapvenha\udp_client\udp_client\obj\Debug\udp_client.csproj.SuggestedBindingRedirects.cache
+D:\baitapvenha\udp_client\udp_client\obj\Debug\udp_client.csproj.CoreCompileInputs.cache
+D:\baitapvenha\udp_client\udp_client\obj\Debug\udp_client.exe
+D:\baitapvenha\udp_client\udp_client\obj\Debug\udp_client.pdb
+C:\Users\nguye\Downloads\Net\Net\Net\udp_client\udp_client\bin\Debug\udp_client.exe.config
+C:\Users\nguye\Downloads\Net\Net\Net\udp_client\udp_client\bin\Debug\udp_client.exe
+C:\Users\nguye\Downloads\Net\Net\Net\udp_client\udp_client\bin\Debug\udp_client.pdb
+C:\Users\nguye\Downloads\Net\Net\Net\udp_client\udp_client\obj\Debug\udp_client.csprojAssemblyReference.cache
+C:\Users\nguye\Downloads\Net\Net\Net\udp_client\udp_client\obj\Debug\udp_client.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\Net\Net\Net\udp_client\udp_client\obj\Debug\udp_client.exe
+C:\Users\nguye\Downloads\Net\Net\Net\udp_client\udp_client\obj\Debug\udp_client.pdb

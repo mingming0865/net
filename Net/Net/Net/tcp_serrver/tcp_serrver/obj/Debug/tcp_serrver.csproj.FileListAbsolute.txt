@@ -1,0 +1,15 @@
+D:\baitapvenha\tcp_serrver\tcp_serrver\bin\Debug\tcp_serrver.exe.config
+D:\baitapvenha\tcp_serrver\tcp_serrver\bin\Debug\tcp_serrver.exe
+D:\baitapvenha\tcp_serrver\tcp_serrver\bin\Debug\tcp_serrver.pdb
+D:\baitapvenha\tcp_serrver\tcp_serrver\obj\Debug\tcp_serrver.csproj.AssemblyReference.cache
+D:\baitapvenha\tcp_serrver\tcp_serrver\obj\Debug\tcp_serrver.csproj.SuggestedBindingRedirects.cache
+D:\baitapvenha\tcp_serrver\tcp_serrver\obj\Debug\tcp_serrver.csproj.CoreCompileInputs.cache
+D:\baitapvenha\tcp_serrver\tcp_serrver\obj\Debug\tcp_serrver.exe
+D:\baitapvenha\tcp_serrver\tcp_serrver\obj\Debug\tcp_serrver.pdb
+C:\1hoc\hethong\Net\Net\Net\tcp_serrver\tcp_serrver\bin\Debug\tcp_serrver.exe.config
+C:\1hoc\hethong\Net\Net\Net\tcp_serrver\tcp_serrver\bin\Debug\tcp_serrver.exe
+C:\1hoc\hethong\Net\Net\Net\tcp_serrver\tcp_serrver\bin\Debug\tcp_serrver.pdb
+C:\1hoc\hethong\Net\Net\Net\tcp_serrver\tcp_serrver\obj\Debug\tcp_serrver.csprojAssemblyReference.cache
+C:\1hoc\hethong\Net\Net\Net\tcp_serrver\tcp_serrver\obj\Debug\tcp_serrver.csproj.CoreCompileInputs.cache
+C:\1hoc\hethong\Net\Net\Net\tcp_serrver\tcp_serrver\obj\Debug\tcp_serrver.exe
+C:\1hoc\hethong\Net\Net\Net\tcp_serrver\tcp_serrver\obj\Debug\tcp_serrver.pdb
